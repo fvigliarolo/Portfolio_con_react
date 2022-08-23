@@ -1,0 +1,17 @@
+{
+	"menu.home"     : "Inicio",
+	"menu.about"    : "Sobre mi",
+	"menu.contact"  : "contacto",
+
+	"home.title_1"      : "Hola, <br />Soy Fede<br />Un entusiasta de la tecnología",
+	"home.title_2"      : "Desarrollador Javascript Fullstack  / Tester de Seguridad &#38; Software  /   Hacker etico",
+	"home.contact_btn"  : "Contáctame",
+
+	"about_h1_1"	: "Sobre mi",
+    "about.p_1"     : "Me describo como un apasionado de la tecnologia, que disfruta de cada oportunidad de aprendizaje que los proyectos requieren para poder ser implementados y desarrollados de la mejor manera.",
+    "about.p_2"     : "Actualmente trabajo como Software and Security tester en GeneXus.Busco nuevos desafios con los cuales volver a medir mis capacidades.",
+    "about.p_3"     : "A traves de los años, la curiosidad a sido mi motor para poder aprender una gran variedad de aspectos dentro del mundo del software. El autodidactismo,dedicacion, y persistencia me han vuelto alguien muy dosil para las distintas circustancias que se pueden presentar durante cualquier desarrollo.",
+
+    "contact.h1_1"  : "Contáctame",
+    "contact.p_1"   : "Estoy interesado en escuchar propuestas de proyectos en los cuales pueda aprender y desempeñarme como desarrollador. Sin embargo, si tiene alguna propuesta fuera de este enfoque, no dude en contactarme."
+}

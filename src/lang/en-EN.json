@@ -1,0 +1,17 @@
+{
+	"menu.home"     : "Home",
+	"menu.about"    : "About",
+	"menu.contact"  : "Contact",
+
+	"home.title_1"      : "Hola, <br />Soy Fede<br />Un entusiasta de la tecnología",
+	"home.title_2"      : "Desarrollador Javascript Fullstack  / Tester de Seguridad &#38; Software  /   Hacker etico",
+	"home.contact_btn"  : "Contáctame",
+
+	"about.h1_1"	: "About me",
+    "about.p_1"     : "I describe my self as a technology enthusiast, that enjoys taking every chance to learn from proyects. To achive this, I do my best to develop with the best practices and focus on good deployments.",
+    "about.p_2"     : "Nowadays I am a software and security tester at GeneXus. I am looking for new challenges which I could measure myself and my capabilities.",
+    "about.p_3"     : "Curiosity has always been the engine I used to learn the variety of skills and aptitudes that I have been improving day by day since I jumped into the world of technology.",
+
+    "contact.h1_1"  : "Contact me",
+    "contact.p_1"   : "I am waiting to hear about your projects so that I could give you feed back whether I can help you developing it and learn during the process.However, if you have any proposal that is not aimed for developers, do not hesitate to contact me using below form either."
+}
